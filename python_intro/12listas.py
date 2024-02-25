@@ -15,3 +15,7 @@
 # n2 = [1, 2, 3, 4, 5, 6, 40]
 # valores = n1 + n2
 # print(valores[-2])
+
+planetas = ['mercurio', 'venus', 'marte', 'saturno', 'urano', 'netuno']
+for planeta in planetas:
+    print(planeta)

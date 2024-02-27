@@ -1,7 +1,3 @@
-#           == igual 
-#           != diferente 
-#           <= menor ou igual que
-#           >= maior ou igual que
 
 x = y = z = False
 n1 = n2 = 0

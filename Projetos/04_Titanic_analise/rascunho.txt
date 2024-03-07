@@ -1,3 +1,7 @@
 da uma olhada na celula 10
 eu tive um erro alí na parte 
 do drop... deixei como comentario por enquanto
+-
+-
+na celula 19 eu tive outro problem
+quanto a erro de atribuição

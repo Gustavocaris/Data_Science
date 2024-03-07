@@ -1,0 +1,3 @@
+da uma olhada na celula 10
+eu tive um erro alí na parte 
+do drop... deixei como comentario por enquanto

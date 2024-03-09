@@ -5,3 +5,7 @@ do drop... deixei como comentario por enquanto
 -
 na celula 19 eu tive outro problem
 quanto a erro de atribuição
+-
+-
+y_pred_rl = clf_rl.predict(X_teste)
+celula 65 erro de input na base de teste

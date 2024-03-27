@@ -13,12 +13,20 @@
 # --->>> verificar_palindromo("python")
 # False
 
-# -->>> verificar_palindromo("Bob")
-# True
-
-# -->>> verificar 'palavras' vamos usar o fatiamento de strings, que é: [inicio:fim:passo] 
-
 palavra = input('digite uma palavra para verificarmos:  ')
 
 def palindromo(palavra):
     palavra = palavra.lower()
+    palavra_invertida = palavra[::-1]  
+    if palavra == palavra_invertida:  
+        return True
+    else:
+        return False
+    
+resultado = palindromo(palavra)
+print(resultado)
+
+# -->>> verificar_palindromo("Bob")
+# True
+
+# -->>> verificar 'palavras' vamos usar o fatiamento de strings, que é: [inicio:fim:passo] 

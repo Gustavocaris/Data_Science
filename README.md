@@ -7,9 +7,8 @@
   <a href="#-Python-Intro">♦️ Python Intro</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Pandas">♦️ Pandas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Numpy">♦️ Numpy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Meus-Projetos">♦️ Projetos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-Projetos">♦️ Projetos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<hr>
 <br>
 
 ## `Introdução:`

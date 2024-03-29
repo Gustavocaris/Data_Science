@@ -11,16 +11,16 @@
 </p>
 <br>
 
-## `Introdução:`
+## Introdução:
 <hr>
 
-## `Python Intro:`
+## Python Intro:
 <hr>
 
-## `Pandas:`
+## Pandas:
 <hr>
 
-## `Projetos:`
+## Projetos:
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=0000FF&style=flat&logo" alt="back to top" /></a></p>
 

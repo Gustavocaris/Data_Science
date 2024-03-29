@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=20&center=true&vCenter=true&width=1000&lines=Navegue+por+Tópicos)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="#-Introdução">♦️ Introdução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Python-Intro">♦️ Python Intro</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Pandas">♦️ Pandas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Numpy">♦️ Numpy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Projetos">♦️ Projetos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-introdução">♦️ Introdução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-python-intro">♦️ Python Intro</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-pandas">♦️ Pandas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-numpy">♦️ Numpy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projetos">♦️ Projetos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 

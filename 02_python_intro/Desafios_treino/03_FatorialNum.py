@@ -19,3 +19,12 @@ if numero < 0:
 else :
     resultado = calcular_fatorial(numero)
     print(f"O fatorial de {numero} é {resultado}.")
+
+# COMENTARIO DA LINHA 10 (foi a partir mais complicadinha que eu achei)
+
+# cria uma representação da conta que será feita para calcular o fatorial. 
+# A expressão range(2, numero + 1) cria uma sequência de números de 2 até 
+# o número fornecido, e str(i) for i in ... transforma cada número dessa 
+# sequência em uma string. join() então junta essas strings usando o 
+# texto " x " como separador. Por exemplo, se numero for 5, a variável 
+# conta será "2 x 3 x 4 x 5".

@@ -17,7 +17,7 @@
   Nesta pasta, contém alguns PDFs que nos fornecem uma base para o que vamos estudar. Aqui, eu deixo meus materiais teóricos. Ainda estou organizando os arquivos.
 </p>
 
-<h4 align="center">In my VScode</h4> 
+<h4 align="center"></h4> 
 <div align="center">
 <img src="https://github.com/Gustavocaris/gustavocaris/assets/149839159/def3044e-6538-47f1-883f-c444df41aabf" width="350px" />
 </div>
@@ -25,10 +25,10 @@
 
 ## `Python Intro`
 <p>
-  Uma introdução à linguagem Python, contendo alguns fundamentos, bibliotecas, estruturas de dados, desafios para praticar um pouco e entre outros.
+  Uma introdução à linguagem Python, contendo alguns fundamentos, bibliotecas, estruturas de dados, desafios para praticar um pouco e entre outros. Gosto sempre de acessar meu github no horario do almoço para sempre ir revisando algum topico ou resolvendo algum desafio.
 </p>
 
-<h4 align="center">In my VScode</h4> 
+<h4 align="center"></h4> 
 <div align="center">
 <img src="https://github.com/Gustavocaris/Portfolio/assets/149839159/0c5cf864-93cf-493e-b129-a3176bd6623c" width="350px" />
 </div>
@@ -39,7 +39,7 @@
    é usada para manipulação e análise de dados tabulares, pandas oferece estruturas de dados poderosas e flexíveis, principalmente os objetos DataFrame e Series, que permitem manipular e analisar dados de forma eficiente.
 </p>
 
-<h4 align="center">In my VScode</h4> 
+<h4 align="center"></h4> 
 <div align="center">
 <img src="https://github.com/Gustavocaris/gustavocaris/assets/149839159/77aa696f-94f4-49c8-945b-0910bc59bb6e" width="500px" />
 </div>
@@ -51,7 +51,7 @@
   fundamental para computação numérica em Python, ele fornece suporte para arrays multidimensionais e funções matemáticas para operações eficientes em arrays.
 </p>
 
-<h4 align="center">In my VScode</h4> 
+<h4 align="center"></h4> 
 <div align="center">
 <img src="https://github.com/Gustavocaris/gustavocaris/assets/149839159/56bd756f-caf8-452a-aec9-aa1d29d2d1e7" width="500px" />
 </div>
@@ -61,7 +61,7 @@
   usado para criação de graficos, visualizações estáticas, interativas e animadas em Python. Ela fornece uma interface para criar uma variedade de gráficos e figuras de alta qualidade. alem da opção de exportação de figuras para vários formatos de arquivo
 </p>
 
-<h4 align="center">In my VScode</h4> 
+<h4 align="center"></h4> 
 <div align="center">
 <img src="https://github.com/Gustavocaris/gustavocaris/assets/149839159/f52f9748-ddfe-49dd-bbd9-afa1f6517e0b" width="500px" />
 </div>

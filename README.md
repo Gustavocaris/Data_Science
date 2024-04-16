@@ -70,6 +70,21 @@
 ## `Projetos`
 <p>
   Aqui, vou detalhar um pouco mais os meus projetos; esta parte será a mais extensa do README.
+
+  <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
+
+  | Topico  | Descrição                           |
+| :---------- | :---------------------------------- |
+| `GUSTAVO`  |Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum |
+| `GUSTAVO` |Lorem ipsum|
+| `GUSTAVO` | Lorem ipsum |
+| `GUSTAVO` | Lorem ipsumLorem ipsumLorem ipsumLoremLorem ipsum Lorem ipsumLorem ipsumLorem ipsu ipsumLorem ipsumLorem ipsum |
+| `GUSTAVO` | Lorem ipsumLorem ipsumLorem ipsumLorem ipsum Lorem ipsumLorem ipsumLorem ipsuLorem ipsumLorem ipsumLorem ipsum |
+| `GUSTAVO ` | Lorem ipsumLorem ipsumLorem ipsumLLorem ipsum Lorem ipsumLorem ipsumLorem ipsuorem ipsumLorem ipsumLorem ipsum|
+| `GUSTAVO` | Lorem ipsumLorem ipsumLorem ipsumLorLorem ipsum Lorem ipsumLorem ipsumLorem ipsuem ipsumLorem ipsumLorem ipsum |
+| `GUSTAVO` | Lorem ipsumLorem ipsumLorem ipsumLorLorem ipsum Lorem ipsumLorem ipsumLorem ipsuem ipsumLorem ipsumLorem ipsum|
+
+  
 </p>
 
 <p align="left"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=FF0000&style=flat&logo" alt="back to top" /></a></p>

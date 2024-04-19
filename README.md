@@ -8,6 +8,7 @@
   <a href="#pandas">♦️ Pandas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#numpy">♦️ Numpy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#matplotlib">♦️ Matplotlib</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#machine_learning">♦️ Machine_Learning</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#projetos">♦️ Projetos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
@@ -66,12 +67,39 @@
 <img src="https://github.com/Gustavocaris/gustavocaris/assets/149839159/f52f9748-ddfe-49dd-bbd9-afa1f6517e0b" width="500px" />
 </div>
 
+## `Machine_Learning`
+
 
 ## `Projetos`
-<p>
-  Aqui, vou detalhar um pouco mais os meus projetos; esta parte será a mais extensa do README.
+<p align="left"><img src="http://img.shields.io/static/v1?label=Projeto_01&message=Analise%20de%20Vendas(basico)&color=red&style=for-the-badge"/></p>
 
-  <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
+  <p> ➤ Este projeto teve um caráter mais introdutório, com uma base de dados MUITO pequena, apenas para interagir com os números e compreender seu funcionamento. O projeto consiste em:</p>
+<p>➤ Imagine que uma empresa entrou em contato para aumentar suas vendas. Infos disponiveis:</p>
+  <ul>
+    <li>A empresa tem 5 lojas e trabalha com vendas de bermudas</li>
+    <li>Como aumentar seu numero de vendas</li>
+    <li>Informações disponiveis: base de vendas</li>
+  </ul>
+  
+<p align="left"><a href="https://github.com/Gustavocaris/Data_Science/tree/main/Projetos/01_Analise_vendas_basico"><img src="https://img.shields.io/static/v1?label&message=Acesse+o+Codigo+AQUI&color=0000FF&style=flat&logo" alt="codigo aqui" /></a></p>
+
+
+----------------------------------------
+
+<p align="left"><img src="http://img.shields.io/static/v1?label=Projeto_02&message=Analise%20Cartao%20de%20Clientes&color=red&style=for-the-badge"/></p>
+
+<p>➤ Você trabalha em uma empresa de cartões de crédito e o diretor percebeu que o número de clientes que cancelam seus cartões tem aumentado significativamente, causando prejuízo para a empresa.</p>
+<p>➤ o que fazer para EVITAR OS CANCELAMENTOS de cartões ?? Infos disponiveis:</p>
+  <ul>
+    <li>Base de clientes atual</li>
+    <li>Base de clientes que cancelaram o cartão</li>
+    <li>hey? Bora descobrir o que está acontecendo ? </li>
+  </ul>
+
+<p align="left"><a href="https://github.com/Gustavocaris/Data_Science/tree/main/Projetos/02_Analise_Clientes_cart%C3%A3o"><img src="https://img.shields.io/static/v1?label&message=Acesse+o+Codigo+AQUI&color=0000FF&style=flat&logo" alt="codigo aqui" /></a></p>
+
+-------------------------------------
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 
   | Topico  | Descrição                           |
 | :---------- | :---------------------------------- |

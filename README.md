@@ -81,7 +81,8 @@
     <li>Informações disponiveis: base de vendas</li>
   </ul>
   
-[`Acesse o Código AQUI`](https://github.com/Gustavocaris/Data_Science/tree/main/Projetos/01_Analise_vendas_basico)
+<p align="left"><a href="https://github.com/Gustavocaris/Data_Science/tree/main/Projetos/01_Analise_vendas_basico"><img src="https://img.shields.io/static/v1?label&message=Acesse+o+Codigo+AQUI&color=0000FF&style=flat&logo" alt="codigo aqui" /></a></p>
+
 
 ----------------------------------------
 
@@ -94,11 +95,8 @@
     <li>Base de clientes que cancelaram o cartão</li>
     <li>hey? Bora descobrir o que está acontecendo ? </li>
   </ul>
-  
-[`Acesse o Código AQUI`](https://github.com/Gustavocaris/Data_Science/tree/main/Projetos/02_Analise_Clientes_cart%C3%A3o)
 
-
-<p align="left"><a href="https://github.com/Gustavocaris/Data_Science/tree/main/Projetos/02_Analise_Clientes_cart%C3%A3o"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=FF0000&style=flat&logo" alt="codigo aqui" /></a></p>
+<p align="left"><a href="https://github.com/Gustavocaris/Data_Science/tree/main/Projetos/02_Analise_Clientes_cart%C3%A3o"><img src="https://img.shields.io/static/v1?label&message=Acesse+o+Codigo+AQUI&color=0000FF&style=flat&logo" alt="codigo aqui" /></a></p>
 
 -------------------------------------
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>

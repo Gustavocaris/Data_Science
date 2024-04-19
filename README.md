@@ -14,48 +14,49 @@
 <br>
 
 ## `Introdução`
-<p>
-  Nesta pasta, contém alguns PDFs que nos fornecem uma base para o que vamos estudar. Aqui, eu deixo meus materiais teóricos. Ainda estou organizando os arquivos.
-</p>
+<p>➤ Nesta pasta, tem uma seleção de PDFs que servem como ponto de partida os nossos estudos. É aqui que mantenho meus materiais teóricos, PDF's, print's epor aí vai. </p>
+<P>➤ Conforme vou aprofundando ou estudando algo novo, vou colocando dentro dessa pasta. As vezes eu acesso esse arquivo para dar uma revisada quando tenho algum tempinho livre e não estou em casa.</p>
 
 <h4 align="center"></h4> 
 <div align="center">
-<img src="https://github.com/Gustavocaris/gustavocaris/assets/149839159/def3044e-6538-47f1-883f-c444df41aabf" width="350px" />
+<img src="" width="350px" />
 </div>
+
+<p align="left"><a href="https://github.com/Gustavocaris/Data_Science/tree/main/01_Introdu%C3%A7%C3%A3o"><img src="https://img.shields.io/static/v1?label&message=Acesse+o+repositorioPDF+AQUI&color=0000FF&style=flat&logo" alt="codigo aqui" /></a></p>
 
 
 ## `Python Intro`
-<p>
-  Uma introdução à linguagem Python, contendo alguns fundamentos, bibliotecas, estruturas de dados, desafios para praticar um pouco e entre outros. Gosto sempre de acessar meu github no horario do almoço para sempre ir revisando algum topico ou resolvendo algum desafio.
+<p>➤ Uma introdução à linguagem Python, contendo alguns fundamentos, bibliotecas, estruturas de dados, desafios para praticar um pouco e entre outros. Gosto sempre de acessar meu github no horario do almoço para sempre ir revisando algum topico ou resolvendo algum desafio.
 </p>
+<p>➤ Conforme aprendo alguma funcionalidade nova, ou framework(django, flask) que futuramente posso vir a estudar... vou adicionando tudo aqui em PY</p>
 
 <h4 align="center"></h4> 
 <div align="center">
-<img src="https://github.com/Gustavocaris/Portfolio/assets/149839159/0c5cf864-93cf-493e-b129-a3176bd6623c" width="350px" />
+<img src="" width="350px" />
 </div>
+
+<p align="left"><a href="https://github.com/Gustavocaris/Data_Science/tree/main/02_python_intro"><img src="https://img.shields.io/static/v1?label&message=Acesse+AQUI&color=0000FF&style=flat&logo" alt="codigo aqui" /></a></p>
 
 
 ## `Pandas`
-<p>
-   é usada para manipulação e análise de dados tabulares, pandas oferece estruturas de dados poderosas e flexíveis, principalmente os objetos DataFrame e Series, que permitem manipular e analisar dados de forma eficiente.
-</p>
+<p>➤ usada para manipulação e análise de dados tabulares, pandas oferece estruturas de dados poderosas e flexíveis, principalmente os objetos DataFrame e Series, que permitem manipular e analisar dados de forma eficiente.</p>
+<p>➤ DataFrame é uma tabela bidimensional com linhas e colunas, que permite armazenar e manipular dados. O pandas também oferece a estrutura de dados Series, que representa uma matriz unidimensional (lembra daquelas matrizes que a gente tinha em matematica na escola)`</p>
+<p> Também podemos carregar dados em formatos diversos, como CSV, Excel, SQL, JSON e HTML. pandas ta alinhado com outras bibliotecas, então é fundamental saber</p>
 
-<h4 align="center"></h4> 
-<div align="center">
-<img src="https://github.com/Gustavocaris/gustavocaris/assets/149839159/77aa696f-94f4-49c8-945b-0910bc59bb6e" width="500px" />
-</div>
-
+<p align="left"><a href="https://github.com/Gustavocaris/Data_Science/tree/main/03_Pandas"><img src="https://img.shields.io/static/v1?label&message=Acesse+AQUI&color=0000FF&style=flat&logo" alt="codigo aqui" /></a></p>
 
 
 ## `Numpy`
 <p>
-  fundamental para computação numérica em Python, ele fornece suporte para arrays multidimensionais e funções matemáticas para operações eficientes em arrays.
+  ATUALIZAR AQUI WWWW fundamental para computação numérica em Python, ele fornece suporte para arrays multidimensionais e funções matemáticas para operações eficientes em arrays.
 </p>
 
-<h4 align="center"></h4> 
-<div align="center">
-<img src="https://github.com/Gustavocaris/gustavocaris/assets/149839159/56bd756f-caf8-452a-aec9-aa1d29d2d1e7" width="500px" />
-</div>
+<p align="left"><a href=""><img src="https://img.shields.io/static/v1?label&message=Acesse+AQUI&color=0000FF&style=flat&logo" alt="codigo aqui" /></a></p>
+
+
+
+
+
 
 ## `Matplotlib`
 <p>

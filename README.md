@@ -8,6 +8,7 @@
   <a href="#pandas">♦️ Pandas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#numpy">♦️ Numpy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#matplotlib">♦️ Matplotlib</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#machine_learning">♦️ Machine_Learning</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#projetos">♦️ Projetos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
@@ -65,6 +66,8 @@
 <div align="center">
 <img src="https://github.com/Gustavocaris/gustavocaris/assets/149839159/f52f9748-ddfe-49dd-bbd9-afa1f6517e0b" width="500px" />
 </div>
+
+## `Machine_Learning`
 
 
 ## `Projetos`

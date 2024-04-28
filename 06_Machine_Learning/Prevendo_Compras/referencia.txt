@@ -1,6 +1,0 @@
-Usaremos como fonte de dados o dataset:
-
-Online Shoppers Purchasing Intention Dataset
-
-
-https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset

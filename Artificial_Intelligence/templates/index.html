@@ -3,25 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chatbot</title>
+    <title>ChatIA</title>
     <link rel="stylesheet" href="static/styles.css">
 </head>
 <body>
     <header>
-        <h1>chat boot</h1>
+        <h1>Search <span class="highlight">AI</span></h1>
+        <nav>
+            <ul>
+                <li><a href="#objetivo">Objetivo</a></li>
+                <li><a href="#tecnologias">Tecnologias Usadas</a></li>
+                <li><a href="https://gemini.google.com/app" target="_blank">Google Gemini</a></li>
+                <li><a href="https://www.linkedin.com/in/gustavo-caris/" target="_blank">Gustavo Caris</a></li>
+            </ul>
+        </nav>
     </header>
+
     <div class="chat-container">
         <div class="chat-box" id="chat-box">
             <!-- Aqui será exibido o histórico de mensagens -->
         </div>
-        <input type="text" id="user-input" placeholder="Digite sua mensagem...">
+        <input type="text" id="user-input" placeholder="Como posso te ajudar ?">
         <button onclick="sendMessage()">Enviar</button>
     </div>
-    <script src="/static/scripts.js"></script>
+    
 
     <footer>
-        Desenvolvido por Gustavo
+        <p>Desenvolvido por Gustavo na imersão de IA da <span class="alura">Alura</span> e do <span class="google">Google</span></p>
     </footer>
+
+    <script src="/static/scripts.js"></script>
 
 </body>
 </html>

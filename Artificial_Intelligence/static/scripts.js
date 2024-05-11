@@ -20,6 +20,7 @@ function sendMessage() {
 
     // Limpa o campo de entrada do usuário
     document.getElementById("user-input").value = "";
+
 }
 
   

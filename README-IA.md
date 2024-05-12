@@ -1,5 +1,8 @@
 # Search AI
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://gustavocaris.github.io/Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-caris/)
+
 TESRT
 
 _O Projeto foi desenvolvido para a Imersão IA da Alura._
@@ -8,10 +11,10 @@ _O Projeto foi desenvolvido para a Imersão IA da Alura._
 
 ## Como rodar o projeto
 
-### 1. Clone o repositório
+### 1. Clone o repositório ou Baixe apenas a Pasta AI
 
 ```bash
-git clone https://github.com/Gustavocaris/Data_Science/tree/main/Artificial_Intelligence
+pasta:  https://github.com/Gustavocaris/Data_Science/tree/main/Artificial_Intelligence
 ```
 
 ### 2. Entre na pasta do projeto

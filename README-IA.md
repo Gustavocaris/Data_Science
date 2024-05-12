@@ -1,12 +1,19 @@
-# Search AI
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://gustavocaris.github.io/Portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-caris/)
+<img width=100% src="https://github.com/Gustavocaris/JavaScript/assets/149839159/3af9ae81-a68b-47f3-8417-8605035be63d"/>
 
-TESRT
 
-_O Projeto foi desenvolvido para a Imersão IA da Alura._
+## `Projetos`
+<p align="left"><img src="http://img.shields.io/static/v1?label=Projeto_01&message=Search%20AI%20&color=red&style=for-the-badge"/></p>
 
+Search AI: Este projeto de `chatbot` foi desenvolvido utilizando a API Gemini com HTML, CSS, JS, Python e Flask.
+
+
+## Tecnologias
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Python</li>
+<li>Flask</li>
 
 
 ## Como rodar o projeto
@@ -45,3 +52,9 @@ python app.py
 ```
 
 ### 6. Acesse o projeto em `http://localhost:3000`
+
+
+<img width=100% src="https://github.com/Gustavocaris/JavaScript/assets/149839159/480bccd5-e102-4be3-93f3-dd6ed8a08390"/>
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://gustavocaris.github.io/Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-caris/)

@@ -1,6 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=50&center=true&vCenter=true&width=1000&lines=Data+Science)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=17&center=true&vCenter=true&width=1000&lines=Navegue+por+Tópicos)](https://git.io/typing-svg)
+<img width=100% src="https://github.com/Gustavocaris/JavaScript/assets/149839159/3f318c85-86c4-4410-baf8-13beaaef224b"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=20&center=true&vCenter=true&width=1000&lines=Navegue+por+Tópicos:)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="#introdução">♦️ Introdução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

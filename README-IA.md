@@ -5,28 +5,27 @@
 ## `Projetos`
 <p align="left"><img src="http://img.shields.io/static/v1?label=Projeto_01&message=Search%20AI%20&color=red&style=for-the-badge"/></p>
 
-Search AI: Este projeto de `chatbot` foi desenvolvido utilizando a API Gemini com HTML, CSS, JS, Python e Flask.
+Search AI: Este projeto cria uma interface web para um chatbot, utilizando HTML/CSS para a interface do front, JavaScript para a interação do cliente, e Flask com a API do Google Generative AI para gerar respostas do chatbot no servidor.
 chatbot interativo utilizando Flask no backend e HTML, CSS, e JavaScript no frontend.
 
 Este projeto cria uma interface web para um chatbot, utilizando HTML/CSS para a interface de usuário, JavaScript para a interação do cliente, e Flask com a API do Google Generative AI para gerar respostas do chatbot no servidor.
 
-## Tecnologias
+### Tecnologias
 <li>HTML</li>
 <li>CSS</li>
-<li>JavaScript</li>
-JavaScript é usado para capturar a entrada do usuário, enviar essa entrada para o servidor e atualizar a interface do usuário com a resposta do chatbot.
-<li>Python</li>
-<li>Flask</li>
-Flask foi usado para criar o backend que processa as mensagens do usuário e interage com a API do Google Generative AI para gerar respostas do chatbot.
+<li>JavaScript (usado para capturar a entrada do usuário, enviar essa entrada para o servidor e atualizar a interface do usuário com a resposta do chatbot.)</li>
+<li>Flask/Python(foi usado para criar o backend que processa as mensagens do usuário e interage com a API do Google Generative AI para gerar respostas do chatbot.)</li>
 
-<h4 align="center"> imagem do projeto</h4>
+### Imagens Projeto
+
+<h4 align="center">Img do proj</h4>
 <div align="center">
-<img src="https://github.com/Gustavocaris/JavaScript/assets/149839159/9914f430-ac36-4a48-b2d0-2b668d61363b" width="700px" />
+<img src="https://github.com/Gustavocaris/JavaScript/assets/149839159/602c3e0c-af3a-474b-8554-290d09c311b1" width="400px" />
 </div>
 
-<h4 align="center"> imagem do projeto</h4>
+<h4 align="center">Img apos realizar busca</h4>
 <div align="center">
-<img src="https://github.com/Gustavocaris/JavaScript/assets/149839159/602c3e0c-af3a-474b-8554-290d09c311b1" width="700px" />
+<img src="https://github.com/Gustavocaris/JavaScript/assets/149839159/9914f430-ac36-4a48-b2d0-2b668d61363b" width="400px" />
 </div>
 
 
@@ -69,7 +68,16 @@ python app.py
 ### 6. Acesse o projeto em `http://localhost:3000`
 
 
+
 <img width=100% src="https://github.com/Gustavocaris/JavaScript/assets/149839159/480bccd5-e102-4be3-93f3-dd6ed8a08390"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=50&center=true&vCenter=true&width=1000&lines=Projetos+Futuros)](https://git.io/typing-svg)
+
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
+
+
+
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://gustavocaris.github.io/Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-caris/)

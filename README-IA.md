@@ -6,14 +6,29 @@
 <p align="left"><img src="http://img.shields.io/static/v1?label=Projeto_01&message=Search%20AI%20&color=red&style=for-the-badge"/></p>
 
 Search AI: Este projeto de `chatbot` foi desenvolvido utilizando a API Gemini com HTML, CSS, JS, Python e Flask.
+chatbot interativo utilizando Flask no backend e HTML, CSS, e JavaScript no frontend.
 
+Este projeto cria uma interface web para um chatbot, utilizando HTML/CSS para a interface de usuário, JavaScript para a interação do cliente, e Flask com a API do Google Generative AI para gerar respostas do chatbot no servidor.
 
 ## Tecnologias
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
+JavaScript é usado para capturar a entrada do usuário, enviar essa entrada para o servidor e atualizar a interface do usuário com a resposta do chatbot.
 <li>Python</li>
 <li>Flask</li>
+Flask foi usado para criar o backend que processa as mensagens do usuário e interage com a API do Google Generative AI para gerar respostas do chatbot.
+
+<h4 align="center"> imagem do projeto</h4>
+<div align="center">
+<img src="https://github.com/Gustavocaris/JavaScript/assets/149839159/9914f430-ac36-4a48-b2d0-2b668d61363b" width="700px" />
+</div>
+
+<h4 align="center"> imagem do projeto</h4>
+<div align="center">
+<img src="https://github.com/Gustavocaris/JavaScript/assets/149839159/602c3e0c-af3a-474b-8554-290d09c311b1" width="700px" />
+</div>
+
 
 
 ## Como rodar o projeto

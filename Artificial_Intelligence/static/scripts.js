@@ -1,3 +1,6 @@
+/*Esta função é responsável por enviar a mensagem do usuário para o 
+servidor e atualizar a interface do usuário com a resposta do chatbot.*/
+
 function sendMessage() {
     var userInput = document.getElementById("user-input").value;
     var chatBox = document.getElementById("chat-box");

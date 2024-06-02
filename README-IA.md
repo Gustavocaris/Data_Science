@@ -6,9 +6,6 @@
 <p align="left"><img src="http://img.shields.io/static/v1?label=Projeto_01&message=Search%20AI%20&color=red&style=for-the-badge"/></p>
 
 Search AI: Este projeto cria uma interface web para um chatbot, utilizando HTML/CSS para a interface do front, JavaScript para a interação do cliente, e Flask com a API do Google Generative AI para gerar respostas do chatbot no servidor.
-chatbot interativo utilizando Flask no backend e HTML, CSS, e JavaScript no frontend.
-
-Este projeto cria uma interface web para um chatbot, utilizando HTML/CSS para a interface de usuário, JavaScript para a interação do cliente, e Flask com a API do Google Generative AI para gerar respostas do chatbot no servidor.
 
 ### Tecnologias
 <li>HTML</li>

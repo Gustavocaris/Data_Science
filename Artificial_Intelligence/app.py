@@ -8,6 +8,9 @@ import google.generativeai as genai
 app = Flask(__name__)
 # Cria uma instância da aplicação
 
+
+
+
 # --- configuracoes do modelo generativo
 GOOGLE_API_KEY = ""  # Substitua pela sua chave API real
 genai.configure(api_key=GOOGLE_API_KEY)
@@ -35,13 +38,16 @@ def index():
     return render_template("index.html")
 #  renderiza o arquivo index.html
 
-# aqui, basicamente, processa as msg do front e inicia outra sessao
+# aqui, basicamente, processa as msg do front e inicia outra secaao
 @app.route("/send-message", methods=["POST"])
 def send_message():
     user_input = request.json["message"]
     chat = model.start_chat(history=[])
     response = chat.send_message(user_input)
     return jsonify({"response": response.text})
+
+
+
 
 
 # Iniciar o servidor manualmente, caso de algum erro pelo terminal

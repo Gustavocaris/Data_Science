@@ -14,6 +14,8 @@ def calcular_fatorial(numero):
     
 numero = int(input('Digite um numero aqui inteiro e não negativo:  '))
 
+#numero = int(input('Digite um numero aqui inteiro e não negativo:  '))
+
 if numero < 0:
     print('Digite um numero inteiro e positivo!!')
 else :
